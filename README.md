@@ -1,4 +1,4 @@
-<h1> Education Website </h1>
+<h1> Udeming Website </h1>
 This is a simple education website built with HTML, CSS.
 
 <h2>Features</h2>
@@ -14,6 +14,4 @@ CSS3
 
 <h2>Preview</h2>
 
-![][def]
-
-[def]: udeming.gif
+![](udeming.gif)
